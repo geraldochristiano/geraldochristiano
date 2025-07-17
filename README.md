@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>My name is **Aldo** and I am an aspiring software developer / engineer. </center>  
+My name is **Aldo** and I am an aspiring software developer / engineer.
 
 .... Work in progress 🛠️
