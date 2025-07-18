@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldo</h1>
-<h3 align="center">An aspiring software developer/engineer from 🇮🇩 </h3>
+<h3 align="center">An aspiring software developer/engineer from Indonesia 🇮🇩 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geraldochristiano&label=Profile%20views&color=0e75b6&style=flat" alt="geraldochristiano" /> </p>
 
